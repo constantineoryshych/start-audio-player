@@ -1,0 +1,6 @@
+Start autolad script:
+	1. win + r
+	2. pust to inpust " shell:startup "
+	3. copy file "startSychroniseRadioMedia.bat"  to autoload dir
+	4. close  autoload dir
+	5. to test restart system
